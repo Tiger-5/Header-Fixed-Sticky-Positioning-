@@ -1,0 +1,16 @@
+.box{
+    background-color: #f9f9f9;
+    border-bottom: 2px solid #ccc;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 3000px;
+}
+
